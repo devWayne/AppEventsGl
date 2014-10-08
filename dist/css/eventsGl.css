@@ -42,6 +42,16 @@ td {
   letter-spacing: 1px;
   background-color: #eee;
 }
+.main-list .tips-list {
+  padding: 20px 0;
+  text-align: center;
+  background-color: #F6F1B3;
+}
+.main-list .tips-list .sm-txt {
+  padding-top: 10px;
+  color: #aaa;
+  font-size: 14px;
+}
 .main-list .blk-list {
   padding: 10px;
   display: -webkit-box;
